@@ -1,4 +1,4 @@
-# I'm Anirudh Chaudhari
+<h1 align="center"><b>👋 I'm Anirudh Chaudhari</b></h1>
 <h3 align="center">
 AI/ML Engineer ● Computer Vision ● RAG & Agentic AI<br>
 AICTE–Microsoft Certified AI/ML Intern<br>
