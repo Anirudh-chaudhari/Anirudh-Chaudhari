@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                                                             I'm Anirudh Chaudhari
 👋 Hi, I'm Anirudh Chaudhari<br><br>AI/ML Engineer • Computer Vision • RAG & Agentic AI  <br>B.Tech CSE | AICTE–Microsoft AI/ML Intern  <br>Building production-ready AI systems from data to deployment<br><br>🔭 I’m currently working on Computer Vision pipelines, RAG systems, LLM-powered applications, and Agentic AI workflows  <br>🧠 My core interests include CNNs, YOLO, Retrieval-Augmented Generation, local LLMs (Ollama), and end-to-end AI system design  <br>👯 I’m looking to collaborate on AI/ML, Computer Vision, RAG, LLM, and Agentic AI projects with real-world impact  <br>✍️ I actively build and experiment with production-grade AI solutions using FastAPI, Docker, and cloud deployment  <br>💬 Ask me about Machine Learning, Computer Vision, YOLO, CNNs, RAG pipelines, LLMs, Agentic AI, and ML deployment  <br>📫 How to reach me: anirudh.chaudhari.cse@ghru.edu.in  <br>⚡ Fun fact: I enjoy building privacy-first AI systems that retrieve, reason, and act — not just predict<br>
 
 
