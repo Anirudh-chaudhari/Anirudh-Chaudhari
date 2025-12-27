@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Anirudh Chaudhari</h1>
+<h1 align="center">I'm Anirudh Chaudhari</h1>
 
 <p align="center">
 <strong>AI/ML Engineer • Computer Vision • RAG & Agentic AI</strong><br>
