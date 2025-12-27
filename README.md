@@ -5,9 +5,9 @@
 <p align="center">
 <strong>B.Tech CSE | AICTE–Microsoft AI/ML Intern</strong>
 </p>
-<br>
+
 <p align="center">
-Building production-ready, end-to-end AI systems from data to deployment
+<strong>Building production-ready, end-to-end AI systems from data to deployment</strong>
 </p>
 
 
