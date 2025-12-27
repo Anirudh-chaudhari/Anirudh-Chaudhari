@@ -1,8 +1,8 @@
 <h1 align="center">I'm Anirudh Chaudhari</h1>
 
 <p align="center">
-<strong>AI/ML Engineer • Computer Vision • RAG & Agentic AI</strong>
-</p>
+<strong>AI/ML Engineer • Computer Vision • RAG & Agentic AI</strong></p>
+<p align="center">
 <strong>B.Tech CSE | AICTE–Microsoft AI/ML Intern</strong>
 </p>
 
