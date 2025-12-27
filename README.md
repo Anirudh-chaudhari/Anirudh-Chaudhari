@@ -3,7 +3,7 @@
 <p align="center">
 <strong>AI/ML Engineer • Computer Vision • RAG & Agentic AI</strong><br>
 <strong>B.Tech CSE | AICTE–Microsoft AI/ML Intern</strong><br>
-Building production-ready, end-to-end AI systems from data to deployment
+<strong>Building production-ready, end-to-end AI systems from data to deployment</strong>
 </p>
 
 
