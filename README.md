@@ -26,19 +26,21 @@
 
 ## 🧠 About Me
 
-I'm an **aspiring AI/ML Engineer** who treats machine learning like software engineering — versioned, tested, containerized, and shipped. My work spans the full lifecycle: from data preprocessing and model training to RAG pipelines, agentic orchestration, and CI/CD deployment on cloud infrastructure.
+<div align="center">
 
-- 🔭 Currently engineering a **production-grade agentic chatbot** with LangGraph, multi-LLM support, and a full Docker → GitHub Actions → AWS EC2 deployment pipeline.
-- 🧩 Strong foundation in **computer vision, deep learning, and NLP/LLM systems** — from YOLOv11 object detection to Retrieval-Augmented Generation.
-- ⚙️ Comfortable across the stack: data pipelines, FastAPI backends, Streamlit interfaces, vector databases, and containerized deployments.
-- 🎯 Product-first mindset — every model I build is designed to ship, not just benchmark well in a notebook.
+**AI/ML Engineer in the making** &nbsp;|&nbsp; Built YOLOv5 Traffic System & Plant Disease Detector &nbsp;|&nbsp; Passionate about scaling real-world AI with CV & Deep Learning
+
+</div>
+
+<br/>
+
+🚀 Currently working as an **AI Automation Engineer Intern** @ [Oyik.AI](https://oyik.ai) — building agentic AI systems (n8n workflows, RAG pipelines, voice agents) for real-world clients.
+
+- 🧠 Computer vision & deep learning background — YOLO-based detection, CNNs, RAG pipelines
+- ⚙️ Ship-first mindset — containerized, CI/CD-deployed, production-ready systems
 
 ```yaml
-open_to:
-  - AI/ML Engineering Internships & Full-Time Roles
-  - Agentic AI & LLM Systems Engineering
-  - Applied Research Collaborations
-  - Open Source Contributions in AI Tooling
+open_to: [AI/ML Engineering Roles, Agentic AI & Automation Collaborations]
 ```
 
 ---
@@ -174,6 +176,17 @@ A fully local Retrieval-Augmented Generation system built for private document Q
 ---
 
 ## 💼 Experience
+
+**AI Automation Engineer Intern** · [Oyik.AI](https://oyik.ai)
+`Present`
+
+Building agentic AI systems for real-world clients at a Leicester-based AI automation agency.
+
+- Design and build AI agent workflows (n8n, RAG pipelines, voice agents) for real estate clients
+- Develop and debug production n8n workflows integrating voice agents, vector search, and backend databases
+- Engineer session-based architectures for multi-agent call handling and CRM automation
+
+`n8n` `RAG` `Voice Agents` `Vector Search` `Workflow Automation`
 
 **AI/ML Intern** · AICTE & Microsoft
 `Jan 2025 — Mar 2025`
