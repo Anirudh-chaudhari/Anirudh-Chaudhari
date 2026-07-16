@@ -11,8 +11,8 @@
 
 ![GPA](https://img.shields.io/badge/GPA-9.00%2F10-8B5CF6?style=for-the-badge&labelColor=0D0221)
 ![Location](https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0221)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0221)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](https://linkedin.com/in/anirudh-chaudhari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0221)](https://anirudh-chaudhari.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](https://www.linkedin.com/in/anirudh-chaudhari-959480253)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:anirudh.chaudhari.cse@ghru.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/Anirudh-chaudhari)
 
@@ -117,36 +117,6 @@ Production-ready agentic AI chatbot built with **LangGraph**, **RAG**, multi-LLM
 | **Security** | IAM-scoped deployment user, self-hosted runner isolation, secrets managed via GitHub Actions |
 | **Impact** | End-to-end, reproducible CI/CD pipeline from commit → Docker Hub → live EC2 deployment |
 | **Repository** | [Production-Ready-Agentic-Chatbot](https://github.com/Anirudh-chaudhari/Production-Ready-Agentic-Chatbot) |
-
-**Deployment Pipeline**
-
-```
-1. Build Docker image of the source code
-2. Push the image to Docker Hub
-3. Launch an EC2 instance
-4. Pull the image from Docker Hub onto EC2
-5. Run the container on EC2
-```
-
-**Infrastructure Setup**
-
-1. Configure an IAM user scoped for deployment (`AmazonEC2FullAccess`)
-2. Provision an Ubuntu EC2 instance
-3. Install Docker on the EC2 host:
-
-```bash
-sudo apt-get update -y
-sudo apt-get upgrade -y
-
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
-sudo usermod -aG docker ubuntu
-newgrp docker
-```
-
-4. Open inbound port `8501` on the EC2 security group
-5. Register EC2 as a **self-hosted GitHub Actions runner** (Settings → Actions → Runners → New self-hosted runner)
-6. Store deployment secrets (Docker Hub credentials, EC2 host, AWS keys) in **GitHub Actions Secrets**
 
 </details>
 
@@ -336,9 +306,9 @@ current:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh.chaudhari.cse@ghru.edu.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-chaudhari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-chaudhari-959480253)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anirudh-chaudhari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://anirudh-chaudhari.lovable.app/)
 
 </div>
 
